@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/OSGi%Minimum-1.2"/>
+	<classpathentry exported="true" kind="lib" path="D:/Java/jdk1.8.0_72/jre/lib/charsets.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Java/jdk1.8.0_72/jre/lib/deploy.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Java/jdk1.8.0_72/jre/lib/javaws.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Java/jdk1.8.0_72/jre/lib/jce.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Java/jdk1.8.0_72/jre/lib/jfr.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Java/jdk1.8.0_72/jre/lib/jfxswt.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Java/jdk1.8.0_72/jre/lib/jsse.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Java/jdk1.8.0_72/jre/lib/management-agent.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Java/jdk1.8.0_72/jre/lib/plugin.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Java/jdk1.8.0_72/jre/lib/resources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Java/jdk1.8.0_72/jre/lib/rt.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/shraddhanand_m/Downloads/JUNIT/junit-4.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/shraddhanand_m/Downloads/hamcrest-core-1.1.jar/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
